@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site  # Tutaj Quarto wygeneruje gotową stronę
+  output-dir: ./  # Tutaj Quarto wygeneruje gotową stronę
 
 website:
   title: "Fundacja Centrum Opowiadania Świata COSik"
