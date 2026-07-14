@@ -12,6 +12,8 @@ website:
       #  text: O nas
       #- href: kontakt.qmd
       #  text: Kontakt
+      - href: statut-www.html
+        text: Statut
 
 format:
   html:
