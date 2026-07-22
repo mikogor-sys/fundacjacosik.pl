@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ./  # Tutaj Quarto wygeneruje gotową stronę
+  output-dir: docs
 
 website:
   title: "Fundacja Centrum Opowiadania Świata COSik"
@@ -8,13 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Start
-      #- href: o-nas.qmd
-      #  text: O nas
-      #- href: kontakt.qmd
-      #  text: Kontakt
+      - href: docs.qmd
+        text: Dokumenty
 
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: false
