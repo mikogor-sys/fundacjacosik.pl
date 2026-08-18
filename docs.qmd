@@ -4,5 +4,18 @@ title: "Dokumenty Fundacji Centrum Opowiadania Świata COSik"
 
 Pamiętaj, że Fundacja COSik jest wciąż *in statu nascendi*, więc dokumenty mogą być niekompletne lub nieaktualne. W razie wątpliwości skontaktuj się z nami.
 
+Wcześniej dla zainteresowanych taki krótki, lekko korporacyjny kondensat:
+
+**MISJA**
+Rozbudzamy ciekawość świata i dajemy ludziom narzędzia do jego samodzielnego poznawania.
+
+**WIZJA**
+Świat ludzi, którzy zadają pytania, myślą samodzielnie, szanują fakty i chcą go lepiej rozumieć.
+
+**WARTOŚCI**
+Ciekawość. Rzetelność. Niezależność. Szacunek. Uczciwość. Odpowiedzialność.
+
 - **Statut Fundacji**  
   [Pobierz Statut (PDF)](pdf/2026-07-21_statut.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+- **Deklaracja Woli Fundatora**
+  [Pobierz Deklarację Woli (PDF)](pdf/DeklaracjaWoliFundatora.pdf){.btn .btn-outline-primary .btn-sm role="button"}
