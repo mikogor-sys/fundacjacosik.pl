@@ -2,7 +2,7 @@
 title: "Dokumenty Fundacji Centrum Opowiadania Świata COSik"
 ---
 
-Pamiętaj, że Fundacja COSik jest wciąż *in statu nascendi*, więc dokumenty mogą być niekompletne lub nieaktualne. W razie wątpliwości skontaktuj się z nami.
+Poniżej jest lista dokumentów Fundacji Centrum Opowiadania Świata COSik, które są wymagane przez prawo lub uważamy je za istotne dla naszej działalności. Kliknij w link, aby pobrać dokument w formacie PDF.
 
 Wcześniej dla zainteresowanych taki krótki, lekko korporacyjny kondensat:
 
@@ -19,3 +19,5 @@ Ciekawość. Rzetelność. Niezależność. Szacunek. Uczciwość. Odpowiedzialn
   [Pobierz Statut (PDF)](pdf/2026-07-21_statut.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 - **Deklaracja Woli Fundatora**
   [Pobierz Deklarację Woli (PDF)](pdf/DeklaracjaWoliFundatora.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+- **Informacja z Krajowego Rejestru Sądowego**
+  [Pobierz Informację (PDF)](pdf/2026-10-07_KRS_pelny.pdf){.btn .btn-outline-primary .btn-sm role="button"}
